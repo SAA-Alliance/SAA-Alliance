@@ -1,23 +1,4 @@
 <img width="1280" height="340" alt="banner" src="https://github.com/user-attachments/assets/3fe0cbd8-396a-4cb4-875a-6cbb24176232" />
-<p align="center">
-  <img src="banner.png" alt="Scientific Analytics Alliance - Sovereign Risk Infrastructure" width="100%">
-</p>
-
-<h1 align="center">Scientific Analytics Alliance</h1>
-
-<p align="center"><b>Sovereign Risk Infrastructure - deterministic risk computation with evidence you can replay.</b></p>
-
-<p align="center">
-  <a href="https://saa-alliance.com"><img src="https://img.shields.io/badge/saa--alliance.com-website-C9A227?style=flat-square" alt="Website"></a>
-  <img src="https://img.shields.io/badge/Delaware-C--Corp-1A2130?style=flat-square" alt="Delaware C-Corp">
-  <img src="https://img.shields.io/badge/NVIDIA-Inception_member-1A2130?style=flat-square" alt="NVIDIA Inception">
-  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7753421"><img src="https://img.shields.io/badge/SSRN-published_methods-1A2130?style=flat-square" alt="SSRN"></a>
-  <img src="https://img.shields.io/badge/evidence-third--party_replayable-C9A227?style=flat-square" alt="Replayable">
-</p>
-
-<p align="center"><code>math first. agents second. governor always. audit forever.</code></p>
-
----
 
 Institutional risk analytics fails hostile review when it cannot be reproduced. SAA builds the alternative: a deterministic, CPU-native computation core where the same input bytes produce the same sealed hash - on rerun, on another machine, months later. Withheld values print as `WITHHELD`, never as an invented metric. Every release passes governance gates before it ships.
 
