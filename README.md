@@ -1,5 +1,4 @@
 <img width="1280" height="340" alt="banner" src="https://github.com/user-attachments/assets/f3fceced-e7d5-4175-a8b4-993906f7187e" />
-[README.md](https://github.com/user-attachments/files/31000556/README.md)
 <p align="center">
   <img src="https://raw.githubusercontent.com/SAA-Alliance/SAA-Alliance/main/banner.png" alt="Scientific Analytics Alliance - Sovereign Risk Infrastructure" width="100%">
 </p>
