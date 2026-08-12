@@ -1,5 +1,4 @@
 <img width="1280" height="340" alt="banner" src="https://github.com/user-attachments/assets/540879b1-e73d-4b5e-b5cb-bc0ce7e6bd12" />
-Scientific Analytics Alliance - Sovereign Risk Infrastructure" width="100%">
 </p>
 
 <h1 align="center">Scientific Analytics Alliance</h1>
