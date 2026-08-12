@@ -95,8 +95,6 @@ Solo founder operating a governed agent fleet over the deterministic core.
 | [News-Analytics-AI](https://github.com/SAA-Alliance/News-Analytics-AI-) | Financial news intelligence: ingestion, AI analysis, automated digests - narrative context, never a source of numbers |
 | [Analytics-Portal](https://github.com/SAA-Alliance/Analytics-Portal-Digital-Asset-Research-Comparative-Analytics-Platform) | Digital-asset research and comparative analytics |
 | [Investment-Dashboard](https://github.com/SAA-Alliance/Investment-Dashboard-Institutional-Grade-Equity-Analytics-Platform) | Equity research and portfolio analytics workbench |
-| [AI-Trader-Research-Simulation](https://github.com/SAA-Alliance/AI-Trader-Research-Simulation) | Intraday crypto research and simulation environment - not an execution venue |
-| [Prediction-Market-Protocol](https://github.com/SAA-Alliance/AI-Powered-Prediction-Market-Protocol) | AI-native prediction market with LMSR market making - proof of concept |
 
 KOKON report composers and the ARIN22 kernel are private; their evidence surfaces are public via the data room.
 
